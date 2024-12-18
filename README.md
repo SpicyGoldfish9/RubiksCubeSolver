@@ -8,4 +8,4 @@ This program allows you to input the current state of a Rubik's Cube and generat
 - When inputting the state of the White side, make sure the Green side is facing up
 
 ## Installation
-1. Clone the repository: git clone https://github.com/SpicyGoldfish9/RubiksCubeSolver.git
+1. Clone the repository: `git clone https://github.com/SpicyGoldfish9/RubiksCubeSolver.git`
